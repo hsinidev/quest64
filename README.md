@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Quest64
-### *High-Performance Interactive Web Experience & Canvas Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-HTML-f59e0b?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Quest64&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Quest64 Header Banner" />
+
+  <h1>🚀 Quest64</h1>
+  <p><em>High-Performance Interactive Web Experience & Canvas Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-HTML-e34c26?style=for-the-badge" alt="Language: HTML" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge" alt="Framework: WebGL / HTML5 Canvas" /></a>
+    <a href="https://github.com/hsinidev/quest64"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Quest64** delivers a fast, responsive, and cross-platform browser experience built with **HTML** and hardware-accelerated canvas rendering.
@@ -25,6 +29,7 @@
 - **Local Storage State**: Automatic session persistence and state restoration.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `HTML`
@@ -32,118 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Quest64 - Play Online for Free
-
-## Overview
-Play Quest64 online for free. Unblocked and available on all devices. Experience the best Quest64 gameplay now!
-
-### Game Details & Guide
-Quest64: A Comprehensive Guide
-
-
-
-Game Overview
-
-
-Quest64 is a classic browser-based game that challenges players to navigate through different levels, collecting points while avoiding obstacles.
-
-
-
-How to Play
-
-
-The objective of the game is to reach the end of each level without touching the obstacles or dying. Players can use their mouse and keyboard keys to move their character left, right, up, and down.
-
-
-
-Controls
-
-
-
-  
-
-Mouse Control:
- Use your mouse to move the character around the screen.
-
-  
-
-
-    
-
-      
-
-Left Arrow Key:
- Move left.
-
-      
-
-Right Arrow Key:
- Move right.
-
-      
-
-Up Arrow Key:
- Move up.
-
-      
-
-Down Arrow Key:
- Move down.
-
-    
-
-  
-
-
-
-
-
-Tips and Tricks for Success
-
-
-Some tips to help you succeed in Quest64 include:
- 
-  • Keep an eye on your health bar, as it will decrease if you touch obstacles or die.
-  • Try to stay focused and avoid distractions while playing the game.
-  • Use your mouse carefully to navigate through the levels without making mistakes.
-  • Experiment with different keyboard combinations to find what works best for you.
-
-  
-Additionally, practicing can help improve your skills. The more you play, the better you'll get at navigating the levels and avoiding obstacles.
-
-
-
-
-
-Quest64 is a great game for anyone looking for a challenging and entertaining browser-based experience. Here are some reasons why:
- 
-  • Easy to learn, but difficult to master: Quest64 has a simple control scheme that's easy to pick up, but the game gets increasingly harder as you progress.
-  • High replay value: Each level is unique, with different obstacles and challenges, so you'll never get bored.
-  • Fast-paced action: The game requires quick reflexes and fast movement, making it perfect for players who enjoy a challenge.
-  • No need to download or install anything: Quest64 runs directly in your web browser, making it a great option for those with slow internet connections.
-
-
-Whether you're looking for a casual gaming experience or something more challenging, Quest64 is definitely worth checking out. So why wait? Get started now and have fun exploring the world of Quest64!
-
-## Technical Specifications
-- **Technology**: HTML5
-- **Compatible Browsers**: Chrome, Firefox, Safari, Edge
-- **Architecture**: Client-side execution (HTML5/JavaScript)
-
-## About the Project
-This game is part of a curated collection of high-performance web games maintained by **HSINI MOHAMED**. The project focuses on providing unblocked, fast-loading, and responsive gaming experiences to users worldwide.
-
-**HSINI MOHAMED**
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-- **Website**: [https://unlockedgames.io](https://unlockedgames.io)
-- **Portfolio**: [Explore more games](https://unlockedgames.io)
-
----
-© 2024 **HSINI MOHAMED**. All games are hosted and maintained for educational and entertainment purposes.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
